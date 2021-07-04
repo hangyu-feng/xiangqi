@@ -1,13 +1,13 @@
-package com.example.XiangQi;
+package com.example.xiangqi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class XiangQiApplication {
+public class XiangqiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(XiangQiApplication.class, args);
+		SpringApplication.run(XiangqiApplication.class, args);
 	}
 
 }

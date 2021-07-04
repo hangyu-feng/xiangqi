@@ -1,10 +1,10 @@
-package com.example.XiangQi;
+package com.example.xiangqi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class XiangQiApplicationTests {
+class XiangqiApplicationTests {
 
 	@Test
 	void contextLoads() {
