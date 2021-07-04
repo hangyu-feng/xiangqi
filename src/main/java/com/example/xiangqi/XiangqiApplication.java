@@ -9,5 +9,5 @@ public class XiangqiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(XiangqiApplication.class, args);
 	}
-
+	// test my push~
 }
