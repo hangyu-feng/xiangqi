@@ -2,3 +2,5 @@
 .gradle
 .idea
 bin
+build
+build.gradle
